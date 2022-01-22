@@ -6,11 +6,31 @@
     font-family:oswald;
     src: url(../font/Oswald-VariableFont_wght.ttf);
 }
+body{
+    font-family:oswald;
+}
 header{
        background-image:url(../img/header.jpg);
        height: 70VH;
-       background-position: center center;
-       background-size: center;
+       width: 100vw;
+       background-position: center ;
+       background-size: cover;
        font-family: courgette;
-       background-color: black;
+}
+.img-one{
+    align-items: center;
+    
+}
+article > h1{
+        text-align: center;
+        padding: 4vh;
+    
+}
+h2{
+    padding: 2VH;
+    margin: auto;
+}
+.article{
+    padding: 2vh;
+    align-items: center;
 }
