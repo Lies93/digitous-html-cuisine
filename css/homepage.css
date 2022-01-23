@@ -7,7 +7,7 @@
     src: url(../font/Oswald-VariableFont_wght.ttf);
 }
 body{
-    font-family:oswald;
+    font-family:courgette;
 }
 header{
        background-image:url(../img/header.jpg);
@@ -33,4 +33,21 @@ h2{
 .article{
     padding: 2vh;
     align-items: center;
+}
+.back{
+    color: brown;
+    text-decoration: none;
+}
+.redirect{
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+ h3 #link-footer{
+    color: white;
+}
+#date{
+    color: white;
 }
