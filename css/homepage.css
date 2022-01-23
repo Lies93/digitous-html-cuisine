@@ -21,19 +21,11 @@ header{
     align-items: center;
     
 }
-article > h1{
-        text-align: center;
-        padding: 4vh;
-    
-}
 h2{
     padding: 2VH;
     margin: auto;
 }
-.article{
-    padding: 2vh;
-    align-items: center;
-}
+
 .back{
     color: brown;
     text-decoration: none;
@@ -44,10 +36,18 @@ h2{
 footer{
     background-color: black;
     color: white;
+    text-decoration: none;
 }
- h3 #link-footer{
-    color: white;
-}
+
 #date{
     color: white;
+}
+footer  a{
+    text-decoration: none;
+    color:white
+}
+h2{
+    text-align: center;
+    margin: auto;
+    padding: auto;
 }
