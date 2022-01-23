@@ -1,0 +1,17 @@
+body{
+    font-family: Courgette;
+}
+header{
+    background-image:url(../img/header.jpg);
+    height: 70VH;
+    width: 100vw;
+    background-position: center ;
+    background-size: cover;
+    }
+#mapouter{
+    padding: 200VH;
+    margin-top: 10000vh;
+}
+footer{
+    background-color: black;
+}
