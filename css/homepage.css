@@ -46,12 +46,12 @@ footer{
 }
 footer  a{
     color:white;
-    padding-left: 2vh;
+    padding-left: 4vh;
 }
 h2{
     text-align: center;
     margin: auto;
-    padding: auto;
+    padding: 1vh;
 }
 .redirect a {
     text-decoration: none;
@@ -68,4 +68,14 @@ nav{
 }
 .first-paragraphe{
     text-align: center;
+}
+.last-article{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.text-suzette{
+    padding-left: 1VH;
+}
+h3{
+    padding: 1vh;
 }
