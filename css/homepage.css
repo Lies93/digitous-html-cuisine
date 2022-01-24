@@ -11,6 +11,8 @@ body{
 }
 header{
        background-image:url(../img/header.jpg);
+       background-position-x: center;
+       background-position-y:center;
        height: 70VH;
        width: 100vw;
        background-position: center ;
@@ -43,11 +45,27 @@ footer{
     color: white;
 }
 footer  a{
-    text-decoration: none;
-    color:white
+    color:white;
+    padding-left: 2vh;
 }
 h2{
     text-align: center;
     margin: auto;
     padding: auto;
+}
+.redirect a {
+    text-decoration: none;
+    color:black;
+}
+nav{
+    background-color: #000000ac;
+}
+.header-content{
+    background-color:#000000ac;
+}
+.newsletter{
+    padding: 2vh;
+}
+.first-paragraphe{
+    text-align: center;
 }

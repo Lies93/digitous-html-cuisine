@@ -1,12 +1,19 @@
 @font-face {
     font-family:courgette;
-    src: url(../FONT/Courgette-Regular.ttf);
+    src: url(../Font/Courgette-Regular.ttf);
 }
 @font-face {
     font-family:oswald;
-    src: url(../font/Oswald-VariableFont_wght.ttf);
+    src: url(../Font/Oswald-VariableFont_wght.ttf);
+    font-weight:normal;
+    font-style:normal;
 }
 body{
+    font-family: oswald;
+}
+h2{
     font-family: courgette;
 }
-
+h1{
+    font-family: courgette;
+}
